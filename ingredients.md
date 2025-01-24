@@ -1,13 +1,12 @@
 Let's begin!
 
-List
-of 
-Ingredients
+List of Ingredients
 
 Lentils
 Water
 Salt
 Carrots
 Zucchini
+Tomato
 
 Enjoy my recipe!
