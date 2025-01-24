@@ -1,4 +1,4 @@
 # recipe
 Title of recipe
-Ingredients of recipes
+Ingredients of recipe
 This is created for a course
