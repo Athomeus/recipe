@@ -9,4 +9,4 @@
 
 - Unordered
 - List
-![Lentil Soup recipe](/home/james/Pictures/recipe.jpg)
+![Lentil Soup recipe](https://github.com/Athomeus/recipe/blob/main/recipe.jpg?raw=true)
